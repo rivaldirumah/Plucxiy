@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Plucxiy</h1> 
-<img src="https://d.top4top.io/p_1895rl0161.gif" width=70% height=auto>
+<img src="https://d.top4top.io/p_1895rl0161.gif" width=100% height=auto>
 
 <h2 align="center">QUOTE</h2>
 <h3 align="center">Pergi sebagai Pahlawan</h3>
