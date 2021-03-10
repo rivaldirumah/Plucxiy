@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Plucxiy</h1> 
-<img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
+<img src="https://pin.it/2fiGbx9" width=70% height=auto>
 
 <h2 align="center">QUOTE</h2>
 <h3 align="center">Pergi sebagai Pahlawan</h3>
