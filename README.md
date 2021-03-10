@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**plucxiy/Plucxiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Plucxiy</h1> 
+<img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
-Here are some ideas to get you started:
+<h2 align="center">QUOTE</h2>
+<h3 align="center">Pergi sebagai Pahlawan</h3>
+<h3 align="center">Pulang sebagai Tahanan</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">CONTACT ME</h2>
+
+
+[![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/plucxiy)
+[![Facebook](https://img.shields.io/badge/Facebook-Ikuti-green?style=for-the-badge&logo=facebook)](https://m.facebook.com/Plucxiy)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-Hubungi-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=%2B6282273839066&text&app_absent=0)
+
+<h2 align="center">THANKS FOR YOU</h2>
